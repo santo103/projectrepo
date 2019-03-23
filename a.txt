@@ -8,4 +8,10 @@
  
  as :
 i am good
+<<<<<<< HEAD
  i am very very bad
+=======
+
+i am very bad
+
+>>>>>>> origin/test
